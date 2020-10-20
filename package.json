@@ -1,0 +1,14 @@
+{
+  "name": "pomodoroBotDiscord",
+  "version": "1.0.0",
+  "description": "This is a bot for discord in order to bring productivity to the server",
+  "main": "index.js",
+  "repository": "https://github.com/Brun0Lass/pomodoroBotDiscord.git",
+  "author": "Bruno Luís - @brun0lass",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.0",
+    "node-opus": "^0.3.3",
+    "ytdl-core": "^3.4.1"
+  }
+}
